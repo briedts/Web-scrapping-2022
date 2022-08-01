@@ -1,8 +1,0 @@
-fecha 24/07/2022
-Creación del repositorio y modificaciones desde el remoto y local
-
-fecha 28/07/2022
-Actualizando la rama main con la creacion de un programa que permite obtener productos y precios de la pagina supermercados Metro 
-
-fecha 29/07/2022
-Crhistian agrego archivo ipynb a la rama main ademas subi mis archivos a la rama Crhistian.
